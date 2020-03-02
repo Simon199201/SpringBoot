@@ -1,7 +1,7 @@
 package com.itheima.test;
 
 import com.itheima.SpringbootMybaitsApplication;
-import com.itheima.domain.User;
+import com.itheima.springbootcondition.domain.User;
 import com.itheima.mapper.UserMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;

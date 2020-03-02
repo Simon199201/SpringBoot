@@ -1,6 +1,6 @@
 package com.itheima.mapper;
 
-import com.itheima.domain.User;
+import com.itheima.springbootcondition.domain.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 import org.springframework.stereotype.Repository;

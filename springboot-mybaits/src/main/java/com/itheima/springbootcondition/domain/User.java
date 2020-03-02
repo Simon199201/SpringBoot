@@ -1,4 +1,4 @@
-package com.itheima.domain;
+package com.itheima.springbootcondition.domain;
 
 public class User {
 
